@@ -23,6 +23,7 @@ You may also implement this assesment with Angular, Vue, React or any Front-end 
 Your code will be evaluated on three criteria:
 - **Correctness:** Does it follow all the instructions?
 - **Code quality:** Is it readable and well structured?
+- **Problem Solving:** Are you able to explain your code?
 
 
 ## Contact us
