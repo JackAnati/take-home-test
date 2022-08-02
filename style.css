@@ -1,0 +1,15 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+nav {
+    background-color: #F2994A;
+    text-align: center;
+    padding: 22px;
+    color: #ffffff;
+
+}
+nav h1 {
+    margin: 0;
+}
