@@ -13,3 +13,22 @@ nav {
 nav h1 {
     margin: 0;
 }
+
+h2{
+    text-align: center;
+}
+
+form{
+    text-align: center;
+    
+}
+
+
+.button{
+    text-align: center;
+    margin: 2px 44%;
+    color: #ffffff;
+    background-color: rgb(34, 168, 230);
+    width: 170px;
+}
+
